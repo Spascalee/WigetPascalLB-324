@@ -1,6 +1,6 @@
 # LB 324
 
-Laufende Applikation: <APP-URL>
+Laufende Applikation: tagebbbuch-wigetpascal-hsdvf3d3exdxajhj.austriaeast-01.azurewebsites.net
 
 ## Aufgabe 2
 Erklären Sie hier, wie man `pre-commit` installiert.
@@ -44,7 +44,7 @@ Die `.env` ist in `.gitignore` eingetragen und gelangt nie ins Repository. Auf A
 
 1. Im [Azure-Portal](https://portal.azure.com) die Web-App öffnen.
 2. Links unter **Settings** → **Environment variables** → Reiter **App settings** → **+ Add**.
-3. **Name:** `PASSWORD`, **Value:** das Passwort (auf Azure = GitHub-Benutzername `<GITHUB-BENUTZERNAME>`), ohne Anführungszeichen.
+3. **Name:** `PASSWORD`, **Value:** das Passwort (auf Azure = GitHub-Benutzername `Spascalee`), ohne Anführungszeichen.
 4. **Apply** und anschliessend **Apply** / **Confirm** bestätigen. Die App startet dabei neu.
 
 Ausserdem ist unter **Settings** → **Configuration** → **General settings** als **Startup Command** eingetragen:
