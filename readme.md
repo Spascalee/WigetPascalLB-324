@@ -1,6 +1,6 @@
 # LB 324
 
-Laufende Applikation: tagebbbuch-wigetpascal-hsdvf3d3exdxajhj.austriaeast-01.azurewebsites.net
+Laufende Applikation: https://tagebbbuch-wigetpascal-hsdvf3d3exdxajhj.austriaeast-01.azurewebsites.net
 
 ## Aufgabe 2
 Erklären Sie hier, wie man `pre-commit` installiert.
